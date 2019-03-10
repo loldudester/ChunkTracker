@@ -6,9 +6,12 @@
       "Chicken"
     ],
     "groundItems": [
+      "Tin ore",
+      "Copper ore"
     ],
     "skillingLocations": [
-      "furnace"
+      "furnace",
+      "oakTree"
     ],
     "shops": [
       "testShop"
@@ -22,11 +25,14 @@
       "Goblin"
     ],
     "groundItems": [
+      "Test shield",
+      "Iron ore"
     ],
     "skillingLocations": [
       "tree"
     ],
     "shops": [
+      "bootsStore"
     ],
     "otherNotes": ""
   }

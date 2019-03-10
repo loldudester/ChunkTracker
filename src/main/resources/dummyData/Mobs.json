@@ -3,14 +3,15 @@
     "name": "Goblin",
     "combatLvl": 2,
     "drops": [
-      "logs"
+      "Prayer amulet",
+      "Loot"
     ]
   },
   {
     "name": "Chicken",
     "combatLvl": 5,
     "drops": [
-      "testSword"
+      "Test sword"
     ]
   }
 ]

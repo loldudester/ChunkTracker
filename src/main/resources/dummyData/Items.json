@@ -1,29 +1,15 @@
 [
-  {
-    "name": "testPlatebody"
-  },
-  {
-    "name": "testSword"
-  },
-  {
-    "name": "logs"
-  },
-  {
-    "name": "tinOre"
-  },
-  {
-    "name": "copperOre"
-  },
-  {
-    "name": "bronzeBar"
-  },
-  {
-    "name": "testLogs"
-  },
-  {
-    "name": ""
-  },
-  {
-    "name": ""
-  }
+  {"name": "Test platebody"},
+  {"name": "Test sword"},
+  {"name": "Logs"},
+  {"name": "Tin ore"},
+  {"name": "Copper ore"},
+  {"name": "Bronze bar"},
+  {"name": "Oak logs"},
+  {"name": "Prayer amulet"},
+  {"name": "Loot"},
+  {"name": "Test shield"},
+  {"name": "Iron ore"},
+  {"name": "Iron bar"},
+  {"name": "Test boots"}
 ]
