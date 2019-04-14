@@ -545,25 +545,83 @@
     "steps": [
       {
         "stepNumber": 1,
-        "stepDescription": "Speak to Fred the Farmer",
+        "stepDescription": "Speak to Charlie the Tramp",
         "itemReqs": [],
-        "chunkLocation": 12595,
-        "extraInfo": "Start of quest. Ask for a quest."
+        "chunkLocation": 12852,
+        "extraInfo": "Start of quest. Near Varrock south entrance. Ask what's down the alley."
       },
       {
         "stepNumber": 2,
-        "stepDescription": "Hand in balls of wool",
-        "itemReqs": [
-          {
-            "itemName": "Ball of wool",
-            "itemQuantity": 20
-          }
-        ],
-        "chunkLocation": 12595,
-        "extraInfo": "End of quest."
+        "stepDescription": "Speak to Katrine",
+        "itemReqs": [],
+        "chunkLocation": 12596,
+        "extraInfo": "Tell her you know about the gang. Don't give your source."
+      },
+      {
+        "stepNumber": 3,
+        "stepDescription": "Obtain Weapon store Key",
+        "itemReqs": [],
+        "chunkLocation": null,
+        "extraInfo": "You'll need another player in the Phoenix Gang to give you theirs."
+      },
+      {
+        "stepNumber": 4,
+        "stepDescription": "Kill the Weaponsmaster in the Weapon store (lvl 23)",
+        "itemReqs": [],
+        "chunkLocation": 12852,
+        "extraInfo": "Directly South of the Rune Shop. Unlock the door and climb the ladder."
+      },
+      {
+        "stepNumber": 5,
+        "stepDescription": "Take 2 Phoenix crossbows",
+        "itemReqs": [],
+        "chunkLocation": 12852,
+        "extraInfo": "The Weaponsmaster must be dead or he will stop you."
+      },
+      {
+        "stepNumber": 6,
+        "stepDescription": "Give the crossbows to Katrine",
+        "itemReqs": [],
+        "chunkLocation": 12596,
+        "extraInfo": "She will make you a member of the Black Arm Gang."
+      },
+      {
+        "stepNumber": 7,
+        "stepDescription": "Find half of the Shield of Arrav",
+        "itemReqs": [],
+        "chunkLocation": 12596,
+        "extraInfo": "It is upstairs in a cupboard."
+      },
+      {
+        "stepNumber": 8,
+        "stepDescription": "Take the shield half to Varrock Museum",
+        "itemReqs": [],
+        "chunkLocation": 12853,
+        "extraInfo": "Curator Haig Halen will give you two copies of a Half certificate. You will need a player from the Phoenix Gang to trade for the other half."
+      },
+      {
+        "stepNumber": 9,
+        "stepDescription": "Swap Half certificates with another player",
+        "itemReqs": [],
+        "chunkLocation": null,
+        "extraInfo": "Trade your extra Half certificate with a player doing the Phoenix Gang part of the quest. Ironman accounts can \"use\" the certificate halves on each other to trade."
+      },
+      {
+        "stepNumber": 10,
+        "stepDescription": "Combine your Half certificates",
+        "itemReqs": [],
+        "chunkLocation": null,
+        "extraInfo": "This will give you a completed certificate."
+      },
+      {
+        "stepNumber": 11,
+        "stepDescription": "Take the cerificate to King Roald",
+        "itemReqs": [],
+        "chunkLocation": 12854,
+        "extraInfo": "He is in Varrock Castle. End of Quest."
       }
     ],
-    "startingChunk": 12854,
+    "startingChunk": 12852,
     "questReqs": [
       ""
     ],
