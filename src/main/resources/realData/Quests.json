@@ -652,5 +652,118 @@
     ],
     "questPointsReqs": 0,
     "questPointsReward": 1
+  },
+  {
+    "name": "Ernest the Chicken",
+    "steps": [
+      {
+        "stepNumber": 1,
+        "stepDescription": "Speak to Veronica",
+        "itemReqs": [],
+        "chunkLocation": 12340,
+        "extraInfo": "Just South of Draynor Manor. Start of Quest."
+      },
+      {
+        "stepNumber": 2,
+        "stepDescription": "Find Professor Oddenstein",
+        "itemReqs": [],
+        "chunkLocation": 12340,
+        "extraInfo": "Enter the manor. Go up the central staircase, then the spiral stairs to the West."
+      },
+      {
+        "stepNumber": 3,
+        "stepDescription": "Create poisoned fish food",
+        "itemReqs": [
+          {
+            "itemName": "Fish food",
+            "itemQuantity": 1
+          },
+          {
+            "itemName": "Poison",
+            "itemQuantity": 1
+          }
+        ],
+        "chunkLocation": null,
+        "extraInfo": "Fish food can be found in a blue box South of the bottom of the spiral staircase. Poison can be found South of the cooking range on the ground floor."
+      },
+      {
+        "stepNumber": 4,
+        "stepDescription": "Retrieve the pressure gauge from the fountain",
+        "itemReqs": [],
+        "chunkLocation": 12340,
+        "extraInfo": "Use the poisoned fish food to kill the piranhas, then search the fountain."
+      },
+      {
+        "stepNumber": 5,
+        "stepDescription": "Dig up a key from the compost heap",
+        "itemReqs": [
+          {
+            "itemName": "Spade",
+            "itemQuantity": 1
+          }
+        ],
+        "chunkLocation": 12340,
+        "extraInfo": "Use a spade on the compost heap on the West side of the grounds."
+      },
+      {
+        "stepNumber": 6,
+        "stepDescription": "Retrieve the rubber tube from under the stairs",
+        "itemReqs": [],
+        "chunkLocation": 12340,
+        "extraInfo": "Use the key to open the room with a skeleton in it. You do not have to kill the skeleton."
+      },
+      {
+        "stepNumber": 7,
+        "stepDescription": "Retrieve the rubber tube from under the stairs",
+        "itemReqs": [],
+        "chunkLocation": 12340,
+        "extraInfo": "Use the key to open the room with a skeleton in it. You do not have to kill the skeleton."
+      },
+      {
+        "stepNumber": 8,
+        "stepDescription": "Enter and solve the basement puzzle to obtain the oil can",
+        "itemReqs": [],
+        "chunkLocation": 12340,
+        "extraInfo": "Refer to the Oldschool Wiki's guide: https://oldschool.runescape.wiki/w/Ernest_the_Chicken#Oil_can"
+      },
+      {
+        "stepNumber": 9,
+        "stepDescription": "Hand the parts in to Professor Oddenstein",
+        "itemReqs": [],
+        "chunkLocation": 12340,
+        "extraInfo": "End of Quest."
+      }
+    ],
+    "startingChunk": 12340,
+    "questReqs": [
+      ""
+    ],
+    "skillReqs": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "questPointsReqs": 0,
+    "questPointsReward": 4
   }
 ]
